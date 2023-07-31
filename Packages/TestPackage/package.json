@@ -1,0 +1,17 @@
+﻿{
+  "name": "testpackage",
+  "version": "0.0.1",
+  "displayName": "Test Package",
+  "description": "Testing.",
+  "unity": "2022.3",
+  "dependencies": {},
+  "testables": [
+    "com.unity.test-framework.performance"
+  ],
+  "author": {
+    "email": "contact@fivemid.com",
+    "name": "Fivemid",
+    "url": "https://fivemid.com"
+  },
+  "type": "library"
+}
